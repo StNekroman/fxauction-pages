@@ -28,6 +28,6 @@
 
 Офіційний мануал по сервам від Betaflight: https://betaflight.com/docs/wiki/guides/current/servos-and-servo_tilt-for-3-1
 
-Кілька відео, але дивіться обережно - автори не завжди знають та розуміють що написано вище.
-https://www.youtube.com/watch?si=8sGpxN7HP7Kl62Hb&v=-hFveTprcKY
-https://www.youtube.com/watch?v=ELKXNrUduYA
+Кілька відео, але дивіться обережно - автори не завжди знають та розуміють що написано вище.  
+https://www.youtube.com/watch?si=8sGpxN7HP7Kl62Hb&v=-hFveTprcKY  
+https://www.youtube.com/watch?v=ELKXNrUduYA  
